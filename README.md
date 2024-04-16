@@ -1,5 +1,5 @@
 # JLDev: Desarrollador web frontend 
-## Hola 👋. Hago webs 🤓
+## Hola 👋 Hago webs 🤓
 
 Mi nombre es Jesús y llevo alrededor de 5-6 meses estudiando desarrollo web de forma autodidacta.
 En mis comienzos aprendí Python, mi lenguaje favorito, el cual llevos 7 meses con él. Seguí con HTML, CSS y JavaScript,
