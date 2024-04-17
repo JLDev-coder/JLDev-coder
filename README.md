@@ -1,4 +1,4 @@
-<img width="500" alt="img_logo" src="https://github.com/JLDev-coder/JLDev-coder/assets/156841597/dd7cd766-b4d4-4710-ba97-e33942f4526d"> # Hola! Soy JLDev y hago webs:
+<img width="100" alt="img_logo" src="https://github.com/JLDev-coder/JLDev-coder/assets/156841597/dd7cd766-b4d4-4710-ba97-e33942f4526d"> # Hola! Soy JLDev y hago webs:
 Me llamo Jesús y desde hace meses que estudio desarrollo web de forma autodidacta.<br>En mis inicios comencé con la programación de videojuegos de GDScript, estando así 4 años.<br>Después comencé a experimentar con otros ámbitos, donde descubrí mi lenguaje favorito,<br>Python. Aprendí bastante de él en 7 meses, donde aprendí sus fundamentos. Luego, estuve<br>aprendiendo desarrollo web, lo que me encantó. Ví que podía combinar ambas tecnologías<br>así que seguí con ellas. Hasta ahora aprendí varias librerías de Python como Flet y Reactpy, y de<br>JavaScript React. La programación es algo que me encanta y espero poder hacerme un hueco<br>en este mundillo.
 
 
